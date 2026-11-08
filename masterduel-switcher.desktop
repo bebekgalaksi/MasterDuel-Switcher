@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Master Duel Account Switcher
+Comment=Fast native account switcher and 10GB storage saver for Yu-Gi-Oh! Master Duel
+Exec=MasterDuelSwitcher
+Icon=steam_icon_1449850
+Terminal=false
+Categories=Game;Utility;
+Keywords=yugioh;master;duel;md;switcher;account;steam;
+StartupNotify=false

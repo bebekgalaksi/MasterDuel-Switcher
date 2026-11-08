@@ -1,0 +1,28 @@
+# Build directories
+build/
+bin/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Binaries
+md-switcher
+MasterDuelSwitcher
+MasterDuelSwitcher.exe
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+.DS_Store
+Thumbs.db
